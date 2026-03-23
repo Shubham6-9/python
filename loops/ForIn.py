@@ -5,7 +5,7 @@
 #     print(i + 1, end=", ")
 
 while True:
-    number = int(input("Enter number"))
+    number = int(input("Enter number: "))
     if(number>0):
         for i in range(number):
             print("yesys")
